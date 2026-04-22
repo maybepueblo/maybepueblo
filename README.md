@@ -79,16 +79,4 @@ Feel free to explore my repositories, check out my projects, or reach out if you
 
 ---
 
-## 📊 A Bit More
-
-```
-🎓 Student → AI Enthusiast → Future AI Professional
-💡 Passionate about: ML, NLP, Data Science, Systems
-🔧 Building: Applications, Knowledge, Expertise
-```
-
----
-
-*"Artificial Intelligence is not just about building smart systems—it's about understanding intelligence itself."*
-
 Last updated: 2026
